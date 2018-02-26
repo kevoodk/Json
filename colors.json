@@ -53,5 +53,14 @@
         "hex": "#0F0"
       }
     },
+    {
+      "color": "aqua",
+      "category": "hue",
+      "type": "secondary",
+      "code": {
+        "rgba": [0,255,255],
+        "hex": "##00ffff"
+      }
+    },
   ]
 }
